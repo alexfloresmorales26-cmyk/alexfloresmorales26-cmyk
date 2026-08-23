@@ -42,7 +42,7 @@
 ---
 
 ### 🏆 Trofeos de GitHub
-
+https://github.com/users/alexfloresmorales26-cmyk/achievements/quickdraw
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alexfloresmorales26-cmyk&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
 </div>
