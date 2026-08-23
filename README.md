@@ -1,7 +1,7 @@
 <div align="center">
 
   # 👾 Alejandro Flores Morales
-  ### ⚡ Estudiante de Ingeniería en Sistemas Computacionales | Software & Systems
+  ### ⚡ Estudiante de Ingeniería en Sistemas Computacionales | Software & Systems.
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=%3E+Ingenier%C3%ADa+en+Sistemas+💻;%3E+Desarrollando+en+Python%2C+Java%2C+C%2B%2B+y+React+🚀;%3E+Amante+de+Linux+y+el+Open+Source+🐧;%3E+Leveling+up+every+day+🎮" alt="Typing SVG" />
