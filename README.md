@@ -11,7 +11,7 @@
 
 ---
 
-### 🕹️ `system.info` (Sobre mí)
+### 🕹️ (Sobre mí)
 
 - 🎓 **Carrera:** Ingeniería en Sistemas.
 - 🔭 **Intereses:** Arquitectura de software, desarrollo web/backend, algoritmos y sistemas operativos.
