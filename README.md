@@ -22,65 +22,34 @@
 
 ---
 
-## 🛠️ Arsenal tecnológico
-
-### 💻 Lenguajes de programación
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css" />
+### 💻 Technologies
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nodejs&theme=dark" />
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,docker,postman,mysql,postgres&theme=dark" />
 
 </div>
 
-### 🚀 Frameworks y desarrollo
+### 📊 Technologies & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
-
-</div>
-
-### 🐧 Sistemas, herramientas y DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,docker,postman" />
-
-</div>
-
-### 🗄️ Bases de datos
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-</div>
-
----
-
-## 📊 Tabla de herramientas y tecnologías
-
-| Herramienta | Categoría | Uso principal |
-|---|---|---|
-| Python | Lenguaje | Automatización y programación |
-| Java | Lenguaje | Programación orientada a objetos |
-| C++ | Lenguaje | Algoritmos y estructuras de datos |
-| C | Lenguaje | Programación de bajo nivel |
-| JavaScript | Lenguaje | Desarrollo web |
-| TypeScript | Lenguaje | Desarrollo web tipado |
-| HTML5 | Web | Estructura de páginas web |
-| CSS3 | Web | Diseño y estilos |
-| React | Framework | Interfaces de usuario |
-| Node.js | Entorno | Desarrollo backend |
-| Linux | Sistema operativo | Desarrollo y administración |
-| Bash | Terminal | Automatización de tareas |
-| Git | Control de versiones | Gestión de código |
-| GitHub | Plataforma | Repositorios y colaboración |
-| VS Code | Editor | Desarrollo de software |
-| MySQL | Base de datos | Gestión de datos relacionales |
-| PostgreSQL | Base de datos | Gestión de datos |
-| Docker | DevOps | Contenedores |
-| Postman | Herramienta | Pruebas de API |
+| 💻 Technologies | ⚙️ Tools |
+|---|---|
+| Python | Linux |
+| Java | Bash |
+| C++ | Git |
+| C | GitHub |
+| JavaScript | VS Code |
+| TypeScript | Docker |
+| HTML5 | Postman |
+| CSS3 | MySQL |
+| React | PostgreSQL |
+| Node.js | |
 
 ---
 
@@ -101,11 +70,11 @@
 <div align="center">
 
 <a href="mailto:alexfloresmorales26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/alexfloresmorales26-cmyk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -116,6 +85,6 @@
 
 ### ⚡ "Code. Learn. Build. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:00F0FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:00F0FF&height=120&section=footer" alt="Footer" />
 
 </div>
