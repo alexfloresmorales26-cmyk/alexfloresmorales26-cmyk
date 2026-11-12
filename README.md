@@ -45,11 +45,7 @@
 <div align="center">
   <!-- Medalla Oficial de Quickdraw -->
   <a href="https://github.com/alexfloresmorales26-cmyk?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw Achievement" />
-  </a>
-  <br />
-  <sub>⚡ <b>Quickdraw</b>: Cerró un issue o pull request en menos de 5 minutos</sub>
-  <br /><br />
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw 
 ---
 
 ### 🌐 Conéctate Conmigo
