@@ -34,12 +34,6 @@
 
 He creado mi propio espacio digital para compartir mi perfil profesional, mostrar mis proyectos, presentar mis habilidades y documentar mi evolución como desarrollador.
 
-<a href="https://portfolio-web-phi-five-75.vercel.app/es/acerca">
-
-<img src="./assets/portfolio-preview.png" width="95%" alt="Portafolio personal de Alejandro Flores Morales" />
-
-</a>
-
 <br/>
 
 <a href="https://portfolio-web-phi-five-75.vercel.app/es/acerca">
